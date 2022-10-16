@@ -1,2 +1,3 @@
 def solution(input):
-    return "output"
+
+    return None
